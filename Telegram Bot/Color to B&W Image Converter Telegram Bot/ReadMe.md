@@ -14,7 +14,7 @@ Purpose of the Bot is to accept a colored Image and give a converted Black and W
 
 # Monochrome Magic Telegram Bot 🌈➡️🖤
 
-![Monochrome Magic](blob:https://web.telegram.org/f7a81e00-21c5-412e-9192-aee64d6215dc)
+![Monochrome Magic]("C to B&W.jpeg")
 
 Hey there! Welcome to the Monochrome Magic Telegram Bot, a Python project powered by [Aiogram 3.2.0](https://docs.aiogram.dev/en/latest/). This bot accepts a colored image and transforms it into a stylish black and white masterpiece!
 

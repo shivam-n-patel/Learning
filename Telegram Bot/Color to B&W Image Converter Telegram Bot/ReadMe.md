@@ -35,5 +35,5 @@ To run the bot locally, follow these simple steps:
 
 Here's a glimpse of what the Monochrome Magic Bot can do:
 
-![Colored Image](link-to-sample-colored-image.png) ➡️ ![Black and White Image](link-to-sample-bw-image.png)
+![Colored Image](a.png) ➡️ ![Black and White Image](link-to-sample-bw-image.png)
 

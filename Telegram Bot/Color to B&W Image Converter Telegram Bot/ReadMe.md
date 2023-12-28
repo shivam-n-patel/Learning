@@ -1,20 +1,6 @@
-This is a Telegram Bot made using Python.
-Api used is Aiogram 3.2.0. (https://docs.aiogram.dev/en/latest/)
-
-Purpose of the Bot is to accept a colored Image and give a converted Black and White Image back.
-
-## To Run the bot:
-<h6>Run this command in terminal:</h6>
-<ol>
-  <li>pip install -r requirements.txt</li>
-  <li>python main.py</li>
-  <li>The TOKEN in the main.py might be expired. So make sure to get a new if so.</li>
-</ol>
-
+<img src="https://github.com/shivam-n-patel/Learning/assets/128468647/a6747c29-7bd0-4bf1-92f8-06403520e6f8" alt="Colored Image" width="100" height="100" /><br>
 
 # Monochrome Magic Telegram Bot 🌈➡️🖤
-
-![Monochrome Magic](CtoB&W.jpeg)
 
 Hey there! Welcome to the Monochrome Magic Telegram Bot, a Python project powered by [Aiogram 3.2.0](https://docs.aiogram.dev/en/latest/). This bot accepts a colored image and transforms it into a stylish black and white masterpiece!
 
@@ -30,10 +16,17 @@ To run the bot locally, follow these simple steps:
    ```bash
    python main.py
 
+3. Note: Ensure that the token in main.py is up-to-date. Get a new token if needed.
 
 ## Sneak Peek 📸
 
 Here's a glimpse of what the Monochrome Magic Bot can do:
 
-![Colored Image](a.png) ➡️ ![Black and White Image](link-to-sample-bw-image.png)
+<img src="https://github.com/shivam-n-patel/Learning/assets/128468647/d98e87dd-de1a-494d-9499-b2531970cf2b" alt="Colored Image" width="100" height="100" /> ➡️ <img src="https://github.com/shivam-n-patel/Learning/assets/128468647/7eecac6c-5754-4b22-a02d-941e71b79b79" alt="Black and White Image" width="100" height="100" />
+
+
+Happy coding, and enjoy the magic of Monochrome! ✨
+
+
+
 
